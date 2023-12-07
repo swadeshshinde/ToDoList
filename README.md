@@ -9,7 +9,7 @@ This WPF project is a simple To-Do List application built using C# and the Windo
 - Delete Task: Remove tasks that are completed or no longer needed.
 - Filter Tasks: View tasks based on their Target Date, Priority to Task.
 - Save: Tasks are saved locally, allowing users to close and reopen the application without losing data.
-
+- Mode: Switch between Light mode / Dark mode
 
 ## Technologies used:
 **C#**: The primary programming language for application logic.
